@@ -14,6 +14,7 @@ public class TunelJenkinsnNgrok {
         System.out.println("Bonjour "+args[1]+", " +args[0]);
         System.out.println("Au revoir!!!");
         System.out.println("Merci c juste un test d'automatisation");
+        System.out.println("Un autre test");
     }
     
 }
